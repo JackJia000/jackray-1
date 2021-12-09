@@ -125,16 +125,7 @@ addEventListener(
 * [CloudflareST](https://github.com/Lbingyi/CloudflareST)
 * [cf-autoupdate](https://github.com/Lbingyi/cf-autoupdate)
 
-> [更多来自热心网友PR的使用教程](/tutorial)
-
 ## 关于CF筛选IP
 
 * 请参考 [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
 * 请参考 [better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip)
-
-### 特别感谢 ：
-
-* [mixool](https://github.com/mixool/)
-* [bclswl0827](https://github.com/bclswl0827/v2ray-heroku)
-* [yxhit](https://github.com/yxhit)
-* [badafans](https://github.com/badafans/better-cloudflare-ip/tree/20201208)
