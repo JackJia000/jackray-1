@@ -1,5 +1,7 @@
 # 使用Heroku部署Xray高性能代理服务，通过ws传输的 (vmess、vless、trojan shadowsocks、socks)等协议
 
+# Heroku已封禁本项目，请Fork到自己的GitHub后部署(修改README.md 第25行中的ThekingMX1998为自己的用户名)
+
 > 提醒： 滥用可能导致账户被BAN！！！ 
 
 # 9月21日修复
